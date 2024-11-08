@@ -2,6 +2,7 @@
 *Student Grade Tracker Java Program Overview*
 
 *Program Name:* StudentGradeTracker
+![image](https://github.com/user-attachments/assets/78582805-72dc-4623-86f0-c66aa13ced59)
 
 *Purpose:* To develop a Java program that allows users to track and manage student grades, calculating average grades and displaying overall grades with additional information.
 
